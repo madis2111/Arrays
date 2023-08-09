@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
 
-        int productNumber;                  //номер продукта
+        int productNumber;                  //номер продукта.
         int productCount;                   //количество продукта
         int currentPrice;                   //соотнесение введен. продукта и его цены
         int sumProducts = 0;                // итоговая сумма всех покупок
